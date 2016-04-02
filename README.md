@@ -1,0 +1,2 @@
+# leetcode
+exercise to algorithm
